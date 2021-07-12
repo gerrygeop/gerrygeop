@@ -1,7 +1,6 @@
-## 👋 Hi, I’m @gerrygeop
+## 👋 Hi, I’m Gerry
 ### :zap: I’m Human
 
-- :book: I’m currently learning Javascript
 - 📫 How to reach me gerryja28@gmail.com
 <!-- - 💞️ I’m looking to collaborate on [soon] -->
 
