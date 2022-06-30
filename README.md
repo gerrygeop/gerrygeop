@@ -1,8 +1,7 @@
 ## 👋 Hi, I’m Gerry
 ### :zap: I’m Human
 
-- 📫 How to reach me gerryja28@gmail.com
-<!-- - 💞️ I’m looking to collaborate on [soon] -->
+📫 gerryja28@gmail.com
 
 
 <!---
