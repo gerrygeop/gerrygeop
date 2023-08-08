@@ -1,5 +1,4 @@
 <h1>Hi 👋, I'm Gerry</h1>
-<h3>A passionate frontend & backend developer from Indonesia</h3>
 
 How to reach me
 - 📫 **gerryja28@gmail.com**
